@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Social Media Logo | LinkedIn" width="22px" target="_blank" rel="noreferrer" src="https://www.flaticon.com/" title="Flaticon" />][linkedin]
+[<img align="left" alt="Social Media Logo | LinkedIn" width="22px" target="_blank" rel="noreferrer" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Social Media Logo | Instagram" width="22px" target="_blank" rel="noreferrer" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
