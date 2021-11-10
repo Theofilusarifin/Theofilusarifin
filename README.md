@@ -2,8 +2,8 @@
 
 ## I'm a University Student at Universitas Surabaya!
 
--   🌱 I’m currently passionate about learning web development 🤣
--   👯 I’m looking to collaborate with other programmers
+-   🌱 I’m currently passionate on learning web development 🤣
+-   👯 I’m looking forward to collaborate with other programmers
 -   🥅 Goals: Can contribute to a big-team project
 
 ### Connect with me:
