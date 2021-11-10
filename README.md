@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Social Media Logo | LinkedIn" width="22px" target="_blank" rel="noreferrer" src="Instagram.png" />][linkedin]
-[<img align="left" alt="Social Media Logo | Instagram" width="22px" target="_blank" rel="noreferrer" src="LinkedIn.png" />][instagram]
+[<img align="left" alt="Social Media Logo | LinkedIn" width="22px" target="_blank" rel="noreferrer" src="LinkedIn.png" />][linkedin]
+[<img align="left" alt="Social Media Logo | Instagram" width="22px" target="_blank" rel="noreferrer" src="Instagram.png" />][instagram]
 
 <br />
 
