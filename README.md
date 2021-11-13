@@ -31,5 +31,5 @@
 <br />
 <br />
 
-[instagram]: https://instagram.com/theofilusarifin
-[linkedin]: https://linkedin.com/in/theofilus-arifin-36707320b/
+[instagram]: https://instagram.com/theofilusarifin/
+[linkedin]: https://linkedin.com/in/theofilusarifin/
