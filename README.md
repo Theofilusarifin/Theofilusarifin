@@ -1,6 +1,6 @@
 ### Hi there, I'm Theofilus Arifin 👋
 
-## I'm a University Student at Universitas Surabaya!
+## I'm an Informatics Engineering Student at Universitas Surabaya!
 
 ### Connect with me:
 
