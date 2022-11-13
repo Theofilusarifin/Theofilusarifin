@@ -2,10 +2,6 @@
 
 ## I'm a University Student at Universitas Surabaya!
 
--   🌱 I’m currently passionate about learning web development 🤣
--   👯 I’m looking forward to collaborate with other programmers
--   🥅 Goals: Can contribute to a big-team project
-
 ### Connect with me:
 
 [<img align="left" alt="Social Media Logo | LinkedIn" width="22px" target="_blank" rel="noreferrer" src="LinkedIn.png" />][linkedin]
