@@ -10,9 +10,6 @@
 - 📫 Feel free to reach me out!
 <br />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theofilusarifin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theofilusarifin) 
-
 ## ⚡Technologies
 - Operating System: 
 ![Windows](https://img.shields.io/badge/Windows-black?style=flat&logo=windows&logoColor=white)
@@ -64,4 +61,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=theofilusarifin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=theofilusarifin&icon=5&color=10)](https://visitcount.itsvg.in)
+## ✈️ Let's Connect!
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theofilusarifin) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theofilusarifin) 
+
+##
+&#169; Theofilus Arifin 2022.
