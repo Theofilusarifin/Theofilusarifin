@@ -1,5 +1,5 @@
 ## Hi there! I’m [Theofilus Arifin](https://github.com/Theofilusarifin)!
-[![](https://visitcount.itsvg.in/api?id=theofilusarifin&icon=5&color=10)](https://visitcount.itsvg.in)
+![](https://visitor-badge.laobi.icu/badge?page_id=theofilusarifin.Theofilusarifin&icon=5)
 [![Github](https://img.shields.io/github/followers/Theofilusarifin?label=Follow&style=social)](https://github.com/Theofilusarifin)
 <br />
 <br />
