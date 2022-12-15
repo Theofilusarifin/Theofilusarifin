@@ -60,7 +60,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=theofilusarifin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+<br />
+
 ## ✈️ Let's Connect!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theofilusarifin) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theofilusarifin) 
