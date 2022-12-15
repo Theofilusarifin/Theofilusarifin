@@ -50,8 +50,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
-<br />
-
 ## 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=theofilusarifin&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=theofilusarifin&theme=radical&hide_border=false)<br/>
@@ -59,8 +57,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=theofilusarifin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<br />
 
 ## ✈️ Let's Connect!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theofilusarifin) 
