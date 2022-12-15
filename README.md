@@ -49,7 +49,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
 - Productivity:
-![VS Code](https://img.shields.io/badge/visualstudiocode-badge-%23-%23239120.svg?logo=visual-studio-code&logoColor=white)
+[![VS Code](https://img.shields.io/badge/visualstudiocode-badge-%23-%23239120.svg?logo=visual-studio-code&logoColor=white)](https://img.shields.io/badge/visual--studio--code-badge-blue.svg?logo=visual-studio-code)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
 <br /><br />
