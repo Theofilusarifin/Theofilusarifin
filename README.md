@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning React for web application development.
 - 💞️ I’m looking to collaborate on ML and Web projects!
 - 📫 Feel free to reach me out!
-
 <br />
 
 ## ⚡Technologies
