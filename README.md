@@ -9,6 +9,8 @@
 - 💞️ I’m looking to collaborate on ML and Web projects!
 - 📫 Feel free to reach me out!
 
+<br />
+
 ## ⚡Technologies
 - Operating System: 
 ![Windows](https://img.shields.io/badge/Windows-black?style=flat&logo=windows&logoColor=white)
