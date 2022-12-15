@@ -16,6 +16,7 @@
 ## ⚡Technologies
 - Operating System: 
 ![Windows](https://img.shields.io/badge/Windows-black?style=flat&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 - Web Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
