@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/76520574/208433167-463dc9cf-221a-4325-8070-aa6fc4c75f9b.gif" width="200"/>
+<img src="https://user-images.githubusercontent.com/76520574/208433879-ad1ff8b9-e26c-43cb-ae1f-98021c973186.gif" width="200"/>
 
 ## Hi there! I’m [Theofilus Arifin](https://github.com/Theofilusarifin)!
 ![](https://visitor-badge.laobi.icu/badge?page_id=theofilusarifin.Theofilusarifin&icon=5)
