@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/76520574/208433167-463dc9cf-221a-4325-8070-aa6fc4c75f9b.gif" width="200"/>
 
-## Hi there! I’m [Theofilus Arifin](https://github.com/Theofilusarifin)!
+# Hi there! I’m [Theofilus Arifin](https://github.com/Theofilusarifin)!
 ![](https://visitor-badge.laobi.icu/badge?page_id=theofilusarifin.Theofilusarifin&icon=5)
 [![Github](https://img.shields.io/github/followers/Theofilusarifin?label=Follow&style=social)](https://github.com/Theofilusarifin)
 <br />
