@@ -6,10 +6,7 @@
 <br />
 <br />
 ## I'm currently an active student in [UBAYA](https://ubaya.ac.id)!
-- 👀 I’m interested in Machine Learning and Web Programming.
-- 🌱 I’m currently learning React for web application development.
-- 💞️ I’m looking to collaborate on ML and Web projects!
-- 📫 Feel free to reach me out!
+Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code also well-qualified Full Stack Developer familiar with wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of process with ease. Collaborative team player with excellent technical abilities offering 3 years of related experience.
 <br />
 
 ## ⚡Technologies
