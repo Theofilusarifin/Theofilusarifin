@@ -10,9 +10,9 @@ Complex problem-solver with analytical and driven mindset. Dedicated to achievin
 <br />
 
 ## ⚡Technologies
-- Operating System: 
-![Windows](https://img.shields.io/badge/Windows-black?style=flat&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+| Description | List |
+| :- | -: |
+| Operating System | ![Windows](https://img.shields.io/badge/Windows-black?style=flat&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)|
 
 - Web Development:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
