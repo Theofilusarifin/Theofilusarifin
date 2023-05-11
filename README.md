@@ -34,7 +34,5 @@ Complex problem-solver with analytical and driven mindset. Dedicated to achievin
 
 ![github-contribution-grid-snake-dark](https://github.com/Theofilusarifin/Theofilusarifin/assets/76520574/2aa4ede0-31e2-4946-9bce-a7e5b93d834d)
 
-<br />
-<br />
 ##
 &#169; Theofilus Arifin 2022.
