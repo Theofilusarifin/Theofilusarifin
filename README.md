@@ -21,8 +21,17 @@ Complex problem-solver with analytical and driven mindset. Dedicated to achievin
 | Productivity | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)|
 
 ## ⭐ GitHub Stats
+| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=theofilusarifin&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="theofilusarifin's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=theofilusarifin&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Theofilusarifin's Most Used Language">
+| ------------- | ------------- |  
+
+| <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=theofilusarifin&hide_border=true&theme=radical">
+| ------------- |
+
+| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=theofilusarifin&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@theofilusarifin)
+| ------------- |
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=theofilusarifin&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=theofilusarifin&theme=radical&hide_border=false)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=theofilusarifin&theme=radical&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theofilusarifin&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 ## 🏆 GitHub Trophies
