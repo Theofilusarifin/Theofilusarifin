@@ -1,6 +1,6 @@
 <!-- <img src="https://user-images.githubusercontent.com/76520574/208433879-ad1ff8b9-e26c-43cb-ae1f-98021c973186.gif" width="150"/> -->
 
-## Hi there! I’m [Theofilus Arifin](https://github.com/Theofilusarifin)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I’m [Theofilus Arifin](https://github.com/Theofilusarifin)! 
 ![](https://visitor-badge.laobi.icu/badge?page_id=theofilusarifin.Theofilusarifin&icon=5)
 [![Github](https://img.shields.io/github/followers/Theofilusarifin?label=Follow&style=social)](https://github.com/Theofilusarifin)
 <br />
