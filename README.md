@@ -31,9 +31,10 @@ Complex problem-solver with analytical and driven mindset. Dedicated to achievin
 ## ✈️ Let's Connect!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theofilusarifin) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theofilusarifin) 
+
+![github-contribution-grid-snake-dark](https://github.com/Theofilusarifin/Theofilusarifin/assets/76520574/2aa4ede0-31e2-4946-9bce-a7e5b93d834d)
+
 <br />
 <br />
 ##
 &#169; Theofilus Arifin 2022.
-
-![github-contribution-grid-snake-dark](https://github.com/Theofilusarifin/Theofilusarifin/assets/76520574/2aa4ede0-31e2-4946-9bce-a7e5b93d834d)
