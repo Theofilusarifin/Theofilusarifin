@@ -27,7 +27,7 @@ Complex problem-solver with analytical and driven mindset. Dedicated to achievin
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=theofilusarifin&hide_border=true&theme=radical">
 | ------------- |
 
-| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=theofilusarifin&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@theofilusarifin)
+| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=theofilusarifin&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@Theofilusarifin)
 | ------------- |
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=theofilusarifin&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
