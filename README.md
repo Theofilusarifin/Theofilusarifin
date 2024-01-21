@@ -6,7 +6,7 @@
 <br />
 <br />
 ## I'm currently an active student at [UBAYA](https://ubaya.ac.id)!
-Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code. A well-qualified Full Stack Developer familiar with wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of process with ease. Collaborative team player with excellent technical abilities offering 3 years of related experience.
+Results-driven machine learning student currently pursuing a degree in Computer Science, demonstrating a solid foundation in programming and statistical concepts. Passionate about leveraging machine learning techniques to solve business problems within the e-commerce industry. Proficient in SQL for efficient data manipulation  and  analysis.  Highly  skilled  in  using  Python  for  data  cleaning,  preprocessing,  statistical analysis, and implementing machine learning algorithms.
 <br />
 
 ## ⚡Technologies
