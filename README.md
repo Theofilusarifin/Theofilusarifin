@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/github/followers/Theofilusarifin?label=Follow&style=social)](https://github.com/Theofilusarifin)
 <br />
 <br />
-## I'm an active student at [UBAYA](https://ubaya.ac.id)!
+## I'm a Data Scientist!
 A results-driven machine learning graduate with a degree in Computer Science, demonstrating a solid foundation in programming and statistical concepts. Passionate about leveraging machine learning techniques to solve business problems within the e-commerce industry. Proficient in SQL for efficient data manipulation  and  analysis.  Highly  skilled  in  using  Python  for  data  cleaning,  preprocessing,  statistical analysis, and implementing machine learning algorithms.
 <br />
 
