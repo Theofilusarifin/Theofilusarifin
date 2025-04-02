@@ -6,7 +6,9 @@
 <br />
 <br />
 ## I'm an AI Engineer | Data Scientist | Data Analyst !
-Results-driven data science and artificial intelligence professional with a degree in Computer Science, demonstrating a solid foundation in programming and statistical concepts. Passionate about leveraging machine learning techniques to solve business problems within the e-commerce industry. Proficient in SQL for efficient data manipulation and analysis. Highly skilled in using Python for data cleaning, preprocessing, statistical analysis, and implementing machine learning and deep learning algorithms.
+I am an AI Engineer specializing in AI Agent Development to build an intelligent systems that enhance automation, decision-making, and real-time data interaction. With a background in Software Engineering, Artificial Intelligence, and Data Science, I have developed a well-rounded skill set, allowing me to design scalable, efficient, and adaptable AI solutions tailored to real-world challenges. 
+
+I am always open to opportunities for project collaborations or engaging discussions on advancing AI technologies. Let’s connect and explore how we can drive innovation together.
 <br />
 
 ## ⚡Technologies
