@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/github/followers/Theofilusarifin?label=Follow&style=social)](https://github.com/Theofilusarifin)
 <br />
 <br />
-## I'm an AI Engineer | Data Scientist | Data Analyst !
+## I'm an AI Engineer | Data Scientist !
 I am an AI Engineer specializing in AI Agent Development to build an intelligent systems that enhance automation, decision-making, and real-time data interaction. With a background in Software Engineering, Artificial Intelligence, and Data Science, I have developed a well-rounded skill set, allowing me to design scalable, efficient, and adaptable AI solutions tailored to real-world challenges. 
 
 I am always open to opportunities for project collaborations or engaging discussions on advancing AI technologies. Let’s connect and explore how we can drive innovation together.
